@@ -12,6 +12,11 @@ seaborn = "*"
 jupyter = "*"
 tensorflow = "*"
 nbstripout = "*"
+opencv-python = "*"
+shapely = "*"
+scikit-learn = "*"
+tifffile = "*"
+
 
 [dev-packages]
 
